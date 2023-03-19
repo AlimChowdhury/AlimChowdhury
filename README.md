@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### Github Stats
 ![Alim's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlimChowdhury&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlimChowdhury)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlimChowdhury)
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlimChowdhury)](https://git.io/streak-stats)

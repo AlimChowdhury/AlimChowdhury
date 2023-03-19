@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 
-<h2 align="center"> Competitive Programming  </h2>
+<h2 align="center"> Competitive Programming Stats </h2>
 
 
 ![](https://raw.githubusercontent.com/AlimChowdhury/cf-stats/main/output/light_card.svg#gh-dark-mode-only)

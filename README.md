@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 ![](https://raw.githubusercontent.com/AlimChowdhury/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/AlimChowdhury/cf-stats/main/output/light_card.svg)
 
-
+### Github Stats
 ![Alim's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlimChowdhury&show_icons=true&theme=radical)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlimChowdhury)](https://git.io/streak-stats)

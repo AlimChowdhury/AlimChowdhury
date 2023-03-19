@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Competitive Programming
 ![](https://raw.githubusercontent.com/AlimChowdhury/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/AlimChowdhury/cf-stats/main/output/light_card.svg)
 

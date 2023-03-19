@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://raw.githubusercontent.com/AlimChowdhury/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/AlimChowdhury/cf-stats/main/output/light_card.svg)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlimChowdhury)](https://git.io/streak-stats)

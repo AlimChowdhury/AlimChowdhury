@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Alim Ullah Chowdhury
 
 - 🌱 I’m currently learning Spring Boot
-- 📫 How to reach me: md.alim.chowdhury@gmail.com
+- 📫 How to reach me: md.alim.chowdhury8@gmail.com
 
 <!--
 **AlimChowdhury/AlimChowdhury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

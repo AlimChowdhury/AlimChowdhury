@@ -27,7 +27,9 @@ Here are some ideas to get you started:
 ![](https://raw.githubusercontent.com/AlimChowdhury/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/AlimChowdhury/cf-stats/main/output/light_card.svg)
 
-### Github Stats
+<h2 align="center"> Github Stats </h2>
+
+
 ![Alim's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlimChowdhury&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlimChowdhury)
 

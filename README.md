@@ -1,4 +1,4 @@
-# Hi 👋, I'm Alim Ullah Chowdhury
+<h1 align="center"> Hi 👋, I'm Alim Ullah Chowdhury</h1>
 
 
 ![](https://komarev.com/ghpvc/?username=AlimChowdhury)

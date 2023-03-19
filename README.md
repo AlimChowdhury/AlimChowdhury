@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 ![](https://raw.githubusercontent.com/AlimChowdhury/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/AlimChowdhury/cf-stats/main/output/light_card.svg)
+My Github Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlimChowdhury)](https://git.io/streak-stats)

@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 -->
 
 ### Competitive Programming
+
 ![](https://raw.githubusercontent.com/AlimChowdhury/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/AlimChowdhury/cf-stats/main/output/light_card.svg)
 

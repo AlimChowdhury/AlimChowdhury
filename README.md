@@ -30,9 +30,7 @@ Here are some ideas to get you started:
 
 <h2 align="center"> Github Stats </h2>
 
-
-![Alim's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlimChowdhury&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlimChowdhury)
-
+<img height="170em" alt="Alim's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlimChowdhury" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlimChowdhury&show_icons=true&locale=en&layout=compact" alt="alim" />
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlimChowdhury)](https://git.io/streak-stats)

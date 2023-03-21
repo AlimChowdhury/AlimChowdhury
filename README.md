@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![](https://raw.githubusercontent.com/AlimChowdhury/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 -->
 
 
@@ -24,7 +25,7 @@ Here are some ideas to get you started:
 <h2 align="center"> Competitive Programming Stats </h2>
 
 
-![](https://raw.githubusercontent.com/AlimChowdhury/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+
 ![](https://raw.githubusercontent.com/AlimChowdhury/cf-stats/main/output/light_card.svg)
 
 <h2 align="center"> Github Stats </h2>

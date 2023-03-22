@@ -21,12 +21,11 @@ Here are some ideas to get you started:
 -->
 
 
-
 <h2 align="center"> Competitive Programming Stats </h2>
+<p align="center">
+<img height="170em" alt="AlimChowdhury's Competitive Programming Stats" src="https://raw.githubusercontent.com/AlimChowdhury/cf-stats/main/output/light_card.svg" />
+</p>
 
-
-
-![](https://raw.githubusercontent.com/AlimChowdhury/cf-stats/main/output/light_card.svg)
 
 <h2 align="center"> Github Stats </h2>
 <p align="center">

@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=AlimChowdhury)
 
-- 🌱 I’m currently learning **Spring Boot**
+
 - 📫 How to reach me: md.alim.chowdhury8@gmail.com
 
 <!--

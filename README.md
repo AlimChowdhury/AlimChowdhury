@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![](https://raw.githubusercontent.com/AlimChowdhury/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 -->
-[](https://raw.githubusercontent.com/AlimChowdhury/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 
 <h2 align="center"> Competitive Programming Stats </h2>
 <p align="center">
@@ -27,10 +26,10 @@ Here are some ideas to get you started:
 </p>
 
 
-<h2 align="center"> Github Stats </h2>
+<!-- <h2 align="center"> Github Stats </h2>
 <p align="center">
 <img height="170em" alt="AlimChowdhury's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlimChowdhury" />
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlimChowdhury&show_icons=true&locale=en&layout=compact" alt="AlimChowdhury's GitHub Stats" />
 <br />
 <img height="170em" src="http://github-readme-streak-stats.herokuapp.com?user=AlimChowdhury" alt="AlimChowdhury's GitHub Stats" />
-</p>
+</p> -->
